@@ -1,0 +1,19 @@
+# folders
+checkpoint
+test_result
+
+# files
+*.pyc
+*.swp
+*.tar
+*.sh
+sbatch*
+_*
+*.ipynb
+
+# data
+data/test.json
+data/glove.6B.50d.json
+
+# virtualenv
+.virtual
